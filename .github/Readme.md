@@ -48,7 +48,7 @@
 
 𝑭𝒐𝒍𝒍𝒐𝒘 𝒕𝒉𝒆𝒔𝒆 𝒔𝒕𝒆𝒑𝒔 𝒕𝒐 𝒅𝒆𝒑𝒍𝒐𝒚 𝑱𝒂𝒑𝒂𝒏𝒆𝒔𝒆-𝑿-𝑼𝒔𝒆𝒓𝒃𝒐𝒕 𝒐𝒏 𝑯𝒆𝒓𝒐𝒌𝒖:
 
-1. **𝑭𝒐𝒓𝒌 & 𝑺𝒕𝒂𝒓 𝒕𝒉𝒊𝒔 [𝑹𝒆𝒑𝒐](https://github.com/Shubhxspam/Japanese-X-Userbot) :**
+1. **𝑭𝒐𝒓𝒌 & 𝑺𝒕𝒂𝒓 𝒕𝒉𝒊𝒔 [𝑹𝒆𝒑𝒐](https://github.com/john-wick00/Userbott) :**
     
 2. **𝑯𝒆𝒓𝒐𝒌𝒖 𝑨𝒄𝒄𝒐𝒖𝒏𝒕 𝑳𝒐𝒈𝒊𝒏 :**
   
@@ -59,7 +59,7 @@
 4. **𝑭𝒊𝒍𝒍 𝑹𝒆𝒒𝒖𝒊𝒓𝒆𝒅 𝑽𝒂𝒓𝒊𝒂𝒃𝒍𝒆𝒔 :**
   
 
-<p align="center"><a href="http://dashboard.heroku.com/new?template=https://github.com/Shubhxspam/Japanese-X-Userbot"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-purple?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<p align="center"><a href="http://dashboard.heroku.com/new?template=https://github.com/john-wick00/Userbott"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-purple?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 
 # 𝑫𝑰𝑺𝑪𝑳𝑨𝑰𝑴𝑬𝑹
