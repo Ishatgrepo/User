@@ -21,4 +21,4 @@
 #SOFTWARE.
 
 #! /bin/bash
-python3 host.py & python3 -m X
+python3 -m X

@@ -20,6 +20,10 @@
       "description": "ʏᴏᴜʀ ɴᴀᴍᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ",
       "required": true
     },
+    "DB_URL": {
+      "description": "Please Use This Url Here :- sqlite:///./test.db",
+      "required": true
+    },
     "STRING_SESSION1": {
       "description": "ʏᴏᴜʀ ᴘʏʀᴏɢʀᴀᴍ ꜱᴛʀɪɴɢ ꜱᴇꜱꜱɪᴏɴ",
       "required": true
