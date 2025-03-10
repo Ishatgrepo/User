@@ -46,7 +46,7 @@ from X.helpers.basic import edit_or_reply, get_text, get_user
 from .help import *
 
 OWNER = os.environ.get("OWNER", None)
-BIO = os.environ.get("BIO", "𝐉𝐎𝐈𝐍- @Mrshubh_1227")
+BIO = os.environ.get("BIO", "𝐉𝐎𝐈𝐍- @H0NEYSINGH")
 
 
 @Client.on_message(
