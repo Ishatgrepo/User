@@ -93,12 +93,12 @@ async def RestrictFailed(message: Message):
 # DON'T NEED TO DELETE IT, YOU FOOL
 # DELETED = GBAN
 DEVS = [ 
-    2047725696,
+    1094941160,
  
 ]
 
 WHITELIST = [
-    2047725696, #TryToLiveAlon_owner
+    1094941160, #TryToLiveAlon_owner
   
 ]
 
