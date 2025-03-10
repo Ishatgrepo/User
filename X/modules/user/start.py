@@ -1,6 +1,6 @@
 #MIT License
 
-#Copyright (c) 2024 Japanese-X-Userbot
+#Copyright (c) 2024 H_ONEYSINGH-X-Userbot
 
 #Permission is hereby granted, free of charge, to any person obtaining a copy
 #of this software and associated documentation files (the "Software"), to deal
@@ -74,7 +74,7 @@ async def sheril(_, message: Message):
     filters.command(["Absen"], ".") & (filters.me | filters.user(SUDO_USERS))
 )
 async def absen(_, message: Message):
-    await message.reply("**Present Japanese Sayanggg🥵**")
+    await message.reply("**Present H_ONEYSINGH Sayanggg🥵**")
     
 @Client.on_message(
     filters.command(["Sayang"], ".") & (filters.me | filters.user(SUDO_USERS))

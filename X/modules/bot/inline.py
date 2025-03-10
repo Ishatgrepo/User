@@ -1,31 +1,3 @@
-#MIT License
-
-#Copyright (c) 2024 Japanese-X-Userbot
-
-#Permission is hereby granted, free of charge, to any person obtaining a copy
-#of this software and associated documentation files (the "Software"), to deal
-#in the Software without restriction, including without limitation the rights
-#to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-#copies of the Software, and to permit persons to whom the Software is
-#furnished to do so, subject to the following conditions:
-
-#The above copyright notice and this permission notice shall be included in all
-#copies or substantial portions of the Software.
-
-#THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-#IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-#FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-#AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-#LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-#OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-#SOFTWARE.
-
-#Credit Bye Geez|Ram
-#Thanks To All Dev
-
-#REMAKE BY NOBITA XD AND TRYTOLIVEALONE 
-
-
 import time
 import traceback
 from sys import version as pyver
@@ -120,8 +92,8 @@ async def pingme(client: Client, message: Message):
 
 async def peler_function(message: Message, answers):
     msg = (
-        f"Shubh-X-Userbot \n"
-        "ㅤㅤStatus : Shubh-X-Userbot Active \n"
+        f"HONEY-X-Userbot \n"
+        "ㅤㅤStatus : ᕼOᑎᗴY-X-Userbot Active \n"
         f"ㅤㅤㅤㅤModules:</b> <code>{len(modules)} Modules</code> \n"
         f"ㅤㅤㅤㅤBot Version: {BOT_VER} \n"
         f"ㅤㅤㅤㅤBranch: {branch} \n\n"
@@ -135,7 +107,7 @@ async def peler_function(message: Message, answers):
                 msg, parse_mode=ParseMode.HTML, disable_web_page_preview=True
             ),
             reply_markup=InlineKeyboardMarkup(
-                [[InlineKeyboardButton(text="ᴄʜᴀɴɴᴇʟ", url="https://t.me/Seethistoknow"), InlineKeyboardButton(text="ᴏᴡɴᴇʀ", url="https://t.me/Mrshubh_1227")], [InlineKeyboardButton(text="ᴍᴇɴᴜ", callback_data="reopen")]]
+                [[InlineKeyboardButton(text="ᴄʜᴀɴɴᴇʟ", url="https://t.me/H0NEYSINGH"), InlineKeyboardButton(text="ᴏᴡɴᴇʀ", url="https://t.me/H_ONEYSINGH")], [InlineKeyboardButton(text="ᴍᴇɴᴜ", callback_data="reopen")]]
             ),
         )
     )

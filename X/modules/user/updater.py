@@ -1,6 +1,6 @@
 #MIT License
 
-#Copyright (c) 2024 Japanese-X-Userbot
+#Copyright (c) 2024 H_ONEYSINGH-X-Userbot
 
 #Permission is hereby granted, free of charge, to any person obtaining a copy
 #of this software and associated documentation files (the "Software"), to deal
@@ -187,7 +187,7 @@ async def upstream(client: Client, message: Message):
             repo.__del__()
             return
         await status.edit(
-            "`[HEROKU]: Update Deploy Japanese X Userbot In process...`"
+            "`[HEROKU]: Update Deploy H_ONEYSINGH X Userbot In process...`"
         )
         ups_rem.fetch(ac_br)
         repo.git.reset("--hard", "FETCH_HEAD")
@@ -204,7 +204,7 @@ async def upstream(client: Client, message: Message):
         except GitCommandError:
             pass
         await status.edit(
-            "`Japanese X Userbot Updated Successfully! Userbot can be used again.`"
+            "`H_ONEYSINGH X Userbot Updated Successfully! Userbot can be used again.`"
         )
     else:
         try:
@@ -213,7 +213,7 @@ async def upstream(client: Client, message: Message):
             repo.git.reset("--hard", "FETCH_HEAD")
         await updateme_requirements()
         await status.edit(
-            "`Japanese X Userbot Updated Successfully! Userbot can be used again.`",
+            "`H_ONEYSINGH X Userbot Updated Successfully! Userbot can be used again.`",
         )
         args = [sys.executable, "-m", "X"]
         execle(sys.executable, *args, environ)

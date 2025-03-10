@@ -1,6 +1,6 @@
 #MIT License
 
-#Copyright (c) 2024 Japanese-X-Userbot
+#Copyright (c) 2024 H_ONEYSINGH-X-Userbot
 
 #Permission is hereby granted, free of charge, to any person obtaining a copy
 #of this software and associated documentation files (the "Software"), to deal
@@ -79,9 +79,9 @@ async def shutdown_bot(client: Client, message: Message):
         await client.send_message(
             BOTLOG_CHATID,
             "**#SHUTDOWN** \n"
-            "**JAPANESE X USERBOT** has been turned off!\If you want to turn it back on, please open it heroku",
+            "**H_ONEYSINGH X USERBOT** has been turned off!\If you want to turn it back on, please open it heroku",
         )
-    await edit_or_reply(message, "**JAPANESE X USERBOT Successfully turned it off!**")
+    await edit_or_reply(message, "**H_ONEYSINGH X USERBOT Successfully turned it off!**")
     if HAPP is not None:
         HAPP.process_formation()["worker"].scale(0)
     else:
