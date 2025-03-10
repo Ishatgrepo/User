@@ -29,7 +29,7 @@ api = Api(app)
 
 class Greeting (Resource):
     def get(self):
-        return "ᴊᴀᴘᴀɴᴇꜱᴇ ɪꜱ ʀᴜɴɴɪɴɢ"
+        return "HONEY ɪꜱ ʀᴜɴɴɪɴɢ"
 
 api.add_resource(Greeting, '/')
 app.run(host="0.0.0.0", port=os.environ.get("PORT", 8080))
