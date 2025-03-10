@@ -1,6 +1,6 @@
 #MIT License
 
-#Copyright (c) 2024 Japanese-X-Userbot
+#Copyright (c) 2024 𝐇𝐎𝐍𝐄𝐘 𝐗 𝐔𝐒𝐄𝐑𝐁𝐎𝐓
 
 #Permission is hereby granted, free of charge, to any person obtaining a copy
 #of this software and associated documentation files (the "Software"), to deal
@@ -156,7 +156,7 @@ async def pink(client: Client, message: Message):
     end = datetime.now()
     duration = (end - start).microseconds / 1000
     await X.edit(
-        f"**❏Japanese-X-Userbot**\n"
+        f"**❏𝐇𝐎𝐍𝐄𝐘 𝐗 𝐔𝐒𝐄𝐑𝐁𝐎𝐓**\n"
         f"**├• PING   :** "
         f"`%sms` \n"
         f"**├•  Uptime  :** "
